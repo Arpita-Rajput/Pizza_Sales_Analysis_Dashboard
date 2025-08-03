@@ -24,9 +24,6 @@ Sales Trends: Analyze daily and monthly order trends. The dashboard highlights p
 Best & Worst Sellers: Drill into the top and bottom performing pizzas based on revenue, quantity sold, and total orders. For example, the Thai Chicken Pizza leads in revenue, while the Classic Deluxe Pizza tops quantity and order volume.
 
 Category & Size Analysis: Visualize sales breakdowns by pizza category (Classic, Supreme, Veggie, Chicken) and pizza size (L, M, S, XL, XXL). Large pizzas and the Classic category are top contributors to revenue and sales volume.
-
-
-Actionable Insights: Key patterns—such as the busiest days and times, bestselling products, and underperforming options—are visually highlighted for strategic decision-making.
 ________________________________________________________________________________________________________________
 
 Technologies Used :- 
@@ -37,6 +34,8 @@ Power BI: Data visualization and dashboard design, leveraging direct SQL connect
 ________________________________________________________________________________________________________________
 
 How it Works
+
+
 Data Integration: Sales data, including order details and product attributes, are imported and managed in SQL Server.
 
 Data Analysis with SQL: Complex queries calculate KPIs, segment sales by category/size, and generate trends used by Power BI.
