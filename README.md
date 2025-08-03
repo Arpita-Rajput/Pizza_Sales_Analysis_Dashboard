@@ -1,4 +1,4 @@
-Pizza Sales Dashboard Project – Power BI & SQL Server
+Pizza Sales Dashboard  – Power BI & SQL Project
 
 This project showcases an end-to-end Pizza Sales Dashboard built using Power BI as the visualization tool and SQL Server as the backend database for data storage, management, and query processing.
 ________________________________________________________________________________________________________________
