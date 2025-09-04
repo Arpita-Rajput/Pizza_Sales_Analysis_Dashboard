@@ -1,7 +1,7 @@
 # Pizza Sales Dashboard  – Power BI & SQL Project
 
 This project showcases an end-to-end Pizza Sales Dashboard built using Power BI as the visualization tool and SQL Server as the backend database for data storage, management, and query processing.
-________________________________________________________________________________________________________________
+
 
 ## Project Overview :- 
 
@@ -13,7 +13,7 @@ Creating and optimizing SQL queries for key business questions
 
 Developing a visually compelling and interactive dashboard in Power BI by connecting directly to the SQL Server database
 
-________________________________________________________________________________________________________________
+
 
 ## Key Features of the Dashboard :- 
 
@@ -24,14 +24,14 @@ Sales Trends: Analyze daily and monthly order trends. The dashboard highlights p
 Best & Worst Sellers: Drill into the top and bottom performing pizzas based on revenue, quantity sold, and total orders. For example, the Thai Chicken Pizza leads in revenue, while the Classic Deluxe Pizza tops quantity and order volume.
 
 Category & Size Analysis: Visualize sales breakdowns by pizza category (Classic, Supreme, Veggie, Chicken) and pizza size (L, M, S, XL, XXL). Large pizzas and the Classic category are top contributors to revenue and sales volume.
-________________________________________________________________________________________________________________
+
 
 ## Technologies Used :- 
 
 SQL Server: Data storage, normalization, and advanced querying for extracting insights from large sales data.
 
 Power BI: Data visualization and dashboard design, leveraging direct SQL connectivity for real-time analysis.
-________________________________________________________________________________________________________________
+
 
 ## How it Works
 
